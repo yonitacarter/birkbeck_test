@@ -10,3 +10,8 @@ h1:hover{
  color: midnightblue;
  cursor: pointer;
 }
+p{
+    font-size: 2rem;
+    color: green;
+    
+}
