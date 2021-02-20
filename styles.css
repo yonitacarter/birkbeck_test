@@ -1,0 +1,12 @@
+body{
+    background-color: gold;
+}
+    h1{
+        font-size: 4rem;
+        color: maroon;
+        text-align: center;
+            }
+h1:hover{
+ color: midnightblue;
+ cursor: pointer;
+}
